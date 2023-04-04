@@ -1,0 +1,49 @@
+/* *{
+    margin: 0%;
+    padding: 0%;
+} */
+h1{
+    color: brown;
+}
+h3{ font-style: italic;
+    color: brown;
+}
+.List{
+    color: brown;
+}
+.cross{
+    text-decoration-line: line-through;
+}
+.bg{ font-weight: bold;
+    background-color: yellow;
+}
+.udl{
+    font-style: italic;
+    text-decoration: underl
+
+.ul{
+    
+    color: brown;
+}
+.pc{
+    color: brown;
+}
+.a{
+    color: brown;
+}
+.a{
+    text-decoration: none;
+    color: brown;
+}
+li.margin5px{
+
+    margin: 5px;
+
+}
+li.padding5px{
+    padding: 5px;
+
+}
+.margin20px{
+    margin: 20px;
+}
